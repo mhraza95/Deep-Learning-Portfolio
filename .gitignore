@@ -1,0 +1,14 @@
+# ignore all venv
+*venv
+
+# ignore all idea
+*.idea
+
+# ignore data set
+*dataset
+
+# ignore trained model fil
+*model
+
+#ignore dataset2
+*dataset2
